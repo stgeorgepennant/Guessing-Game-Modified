@@ -1,4 +1,5 @@
 //cpp file for the guess game member function implementation
+//Author: St George Pennant
 
 #include <iostream> //standard library for i/o
 #include <string> // always include this when you use the string class
